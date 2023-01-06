@@ -1,4 +1,4 @@
-![](https://github.com/Circadiaware/circadiaware-design/raw/main/logo/circadiaware-text-logo4-fixed.png)
+![](https://github.com/Circadiaware/circadiaware-design/raw/main/logo/circadiaware-text-logo6-font3-test2.png)
 
 # Welcome to the Circadiaware Collective!
 
