@@ -1,6 +1,6 @@
 ![](https://github.com/Circadiaware/circadiaware-design/raw/main/logo/circadiaware-text-logo4-fixed.png)
 
-# Welcome to the Circadiaware Collective
+# Welcome to the Circadiaware Collective!
 
 We are a group of researchers, software engineers, citizen scientists and patients advocates working together to bring novel tools for the treatment and management of circadian rhythm sleep-wake disorders such as non-24 or DSPD, which are severely disabling and debilitating.
 
