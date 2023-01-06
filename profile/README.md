@@ -2,9 +2,9 @@
 
 # Welcome to the Circadiaware Collective!
 
-We are a group of researchers, software engineers, citizen scientists and patients advocates working together to bring novel tools for the study, management and treatment of circadian rhythm sleep-wake disorders such as non-24 or DSPD, which are severely disabling and debilitating.
+We are a group of researchers, software engineers, citizen scientists and patients advocates working together to conceive novel tools for the study, management and treatment of circadian rhythm sleep-wake disorders such as non-24 or DSPD, which are severely disabling and debilitating.
 
-All tools are published under an open-source license, and anybody can join the collective by submitting an open-source resource related to the management or treatment of circadian rhythm sleep-wake disorders.
+All tools are published under an open-source license, and anybody can join the collective by contributing to an existing project of the collective or by submitting a new open-source resource related to the management or treatment of circadian rhythm sleep-wake disorders.
 
 The goal of the collective is to deduplicate efforts, bring together people who share common goals (such as developing similar apps), and provide a centralized resource on the internet to publicize the tools produced by the community.
 
