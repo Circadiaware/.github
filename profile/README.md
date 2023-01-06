@@ -7,3 +7,5 @@ We are a group of researchers, software engineers, citizen scientists and patien
 All tools are published under an open-source license, and anybody can join the collective by submitting an open-source resource related to the management or treatment of circadian rhythm sleep-wake disorders.
 
 The goal of the collective is to deduplicate efforts, bring together people who share common goals (such as developing similar apps), and provide a centralized resource on the internet to publicize the tools produced by the community.
+
+If you don't know where to start, have a look at our list of projects: https://github.com/Circadiaware/crd-projects
