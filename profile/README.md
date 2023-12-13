@@ -6,7 +6,7 @@ We are a group of researchers, software engineers, citizen scientists and patien
 
 In the spirit of open science and transparency, all tools are published under an open-source license and will be free forever!
 
-We welcome everybody to join our collective by contributing to an existing project or by submitting a new open-source resource related to the management or treatment of circadian rhythm sleep-wake disorders.
+We welcome everybody to join our collective by contributing to an existing project or by submitting a new open-source resource related to the management or treatment of circadian rhythm sleep-wake disorders. If you are interested and you think you can contribute in any way, please join us to shape the future of circadian rhythm sleep science!
 
 The goal of the collective is to deduplicate efforts, bring together people who share common goals (such as developing similar apps), to raise awareness about these poorly known disorders, and to provide a centralized resource on the internet to publicize the tools produced by the community.
 
