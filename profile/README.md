@@ -10,4 +10,9 @@ We welcome everybody to join our collective by contributing to an existing proje
 
 The goal of the collective is to deduplicate efforts, bring together people who share common goals (such as developing similar apps), to raise awareness about these poorly known disorders, and to provide a centralized resource on the internet to publicize the tools produced by the community.
 
-If you don't know where to start or if you are a user interested in testing some of our tools, have a look at our list of projects: https://github.com/Circadiaware/crd-projects or at our most popular projects pinned just below.
+If you don't know where to start or if you are a user interested in testing some of our tools, have a look at:
+* [Web Actogram](https://github.com/Circadiaware/webactogram), a novel instantaneous mass screening tool for sleep patterns and maybe disorders by using the web browser's history.
+* [VLiDACMel](https://circadiaware.github.io/VLiDACMel-entrainment-therapy-non24/SleepNon24VLiDACMel.html), an unvalidated experimental protocol to manage the non-24 and DSPD circadian rhythm disorders mainly using very long light therapy (and includes a review of circadian rhythm sleep science).
+* [Wearadian](https://circadiaware.github.io/wearadian/docs/Wearadian.html), designs for experiments to monitor in-situ and 24/7 circadian rhythm sleep disorders, used to collect the data of the [MyNon24Sleep](https://figshare.com/projects/MyNon24_-_A_self-study_of_the_circadian_rhythm_and_its_altering_factors/101804) dataset.
+* Our curated list of projects: https://github.com/Circadiaware/crd-projects and https://github.com/orgs/Circadiaware/repositories
+* Check also our most popular projects pinned just below.
