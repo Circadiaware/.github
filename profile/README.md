@@ -16,3 +16,4 @@ If you don't know where to start or if you are a user interested in testing some
 * [Wearadian](https://circadiaware.github.io/wearadian/docs/Wearadian.html), designs for experiments to 24/7 in-situ monitor circadian rhythm sleep disorders biomarkers, used to collect the data of the [MyNon24Sleep](https://figshare.com/projects/MyNon24_-_A_self-study_of_the_circadian_rhythm_and_its_altering_factors/101804) dataset.
 * Our complete list of projects: https://github.com/Circadiaware/crd-projects and https://github.com/orgs/Circadiaware/repositories
 * Check also our most popular projects pinned just below.
+* [Matrix chatroom](https://matrix.to/#/#circadiaware:matrix.org)
